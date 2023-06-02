@@ -10,3 +10,4 @@ int main()
         printf("%d * %d = %d \n",a,b,a*b );
     return 0;
 }
+// Tabling code
